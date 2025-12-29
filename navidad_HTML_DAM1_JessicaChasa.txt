@@ -1,2 +1,5 @@
+enlace al repositorio de Github con el código de tu página:
 https://github.com/jgcmaisanche10/mi-pagina-web-jessica.git
+
+ enlace a la página web:
 https://jgcmaisanche10.github.io/mi-pagina-web-jessica/index.html
